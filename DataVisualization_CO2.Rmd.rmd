@@ -212,5 +212,5 @@ diamonds_sampling %>%
   labs(title = "Line chart of diamond Clarity and Average Price(USD)",
        x = "Clarity", y = "Avg_Price(USD)",
        caption = "Source: Diamond dataset in r")
-  
+   
 ```
