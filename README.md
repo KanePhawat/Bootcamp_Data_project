@@ -18,8 +18,15 @@ We learn 10 sprints during 4 month program.
    -> https://datalore.jetbrains.com/view/notebook/baBv6pR9u1nsRCXSeqSOHK
 - [x] 📊 Data Visualization
    - **Analyze CO2 emission** (dataset from kaggle) </br>
-   -> 
-- [x] 📈 Statistics
+   -> [Project Data Visualization](./DataVisualization_CO2.pdf) </br>
+       [<img src ="./CO2_emission.jpg" width="300"/>](./DataVisualization_CO2.pdf)
+- [ ] 📈 Statistics
 - [ ] 👨‍💻 Intro to "Classical" Machine Learning
 - [x] 🐍 Essential Python for Data Analyst
-- [x] 💹 Dashboard
+   - **PaoYingShub game** (in Python)👊✌🖐 and **ATM class (OOP)🏧**</br>
+   -> https://datalore.jetbrains.com/view/notebook/f8wlarSuUNozy5TwhPFi6R
+   - **Analyzing Sales Data:** *with Pandas library* </br>
+   -> https://datalore.jetbrains.com/view/notebook/t9DtWRd2bvFOfSP1Q5wQsz
+   - [ ]**GET API**
+   - [ ]**Build simple ML model**
+- [ ] 💹 Dashboard
