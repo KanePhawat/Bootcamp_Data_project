@@ -27,6 +27,7 @@ We learn 10 sprints during 4 month program.
    -> https://datalore.jetbrains.com/view/notebook/f8wlarSuUNozy5TwhPFi6R
    - **Analyzing Sales Data:** *with Pandas library* </br>
    -> https://datalore.jetbrains.com/view/notebook/t9DtWRd2bvFOfSP1Q5wQsz
-   - [ ]**GET API**
+   - **GET API:** *get Pokemon API and bulid the dataframe.* </br>
+   -> https://datalore.jetbrains.com/view/notebook/Qqbk2j9lWlXCQeCLyQjky4
    - [ ]**Build simple ML model**
 - [ ] 💹 Dashboard
