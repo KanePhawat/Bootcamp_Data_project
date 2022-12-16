@@ -30,4 +30,8 @@ We learn 10 sprints during 4 month program.
    - **GET API:** *get Pokemon API and bulid the dataframe.* </br>
    -> https://datalore.jetbrains.com/view/notebook/Qqbk2j9lWlXCQeCLyQjky4
    - [ ]**Build simple ML model**
-- [ ] 💹 Dashboard
+- [x] 💹 Dashboard
+   - **Worldwide meat consumption 🥩** by Data studio(looker)</br>
+   -> https://datastudio.google.com/reporting/cd55e70c-4a55-4f20-afc6-57201b71f375/page/p_2lcqa7xf1c
+   - **Global Shark Attacks 🦈** by Tableau </br>
+   -> https://public.tableau.com/app/profile/kanephawat/viz/GlobalSharkAttacks_16710075249910/Dashboard1
