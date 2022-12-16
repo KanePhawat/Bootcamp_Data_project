@@ -21,7 +21,7 @@ We learn 10 sprints during 4 month program.
    -> [Project Data Visualization](./DataVisualization_CO2.pdf) </br>
        [<img src ="./CO2_emission.jpg" width="300"/>](./DataVisualization_CO2.pdf)
 - [ ] 📈 Statistics
-- [ ] 👨‍💻 Intro to "Classical" Machine Learning
+- [x] 👨‍💻 Intro to "Classical" Machine Learning
 - [x] 🐍 Essential Python for Data Analyst
    - **PaoYingShub game** (in Python)👊✌🖐 and **ATM class (OOP)🏧**</br>
    -> https://datalore.jetbrains.com/view/notebook/f8wlarSuUNozy5TwhPFi6R
